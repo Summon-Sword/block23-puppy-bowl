@@ -1,0 +1,25 @@
+
+# Dependency directory
+node_modules
+
+# Environment variables
+.env
+
+# Build output directory
+dist
+
+# Logs
+#I think this is necessary for debugging.
+logs
+*.log
+npm-debug.log*
+
+# Optional npm cache & install
+#I don't know why this is necessary
+.npm
+.npmrc
+
+# IDE/Editor directories 
+#I don't know why this is necessary but the IDE is vscode.
+.idea
+.vscode
